@@ -16,6 +16,7 @@ if (isNaN(numero)) {
         } else alert(numero + ' no es divisible entre 2 por lo tanto es impar.');
 }
 
-// Ejercicio tres
+
+
 
 
